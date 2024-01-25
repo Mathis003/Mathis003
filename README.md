@@ -9,7 +9,6 @@
 🌐 Passionate about coding, problem-solving, and exploring new technologies<br/>
 
 ## Stats:
-<p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Mathis003&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
@@ -17,15 +16,14 @@
 
 ## Activity On GitHub
 
-<p align="center">
-  <a href="https://github.com/Mathis003">      
+<a href="https://github.com/Mathis003">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathis003&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
 ## Some Respositorys
   <p align="left">
-     <a href="https://github.com/Mathis003/LINFO1104-TwitOz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=LINFO1104-TwitOz&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Mathis003/LINFO1104-TwitOz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=LINFO1104-TwitOz&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mathis003/Chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=Chess&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/Mathis003/Connect4_AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=Connect4_AI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Mathis003/Connect4_AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=Connect4_AI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
