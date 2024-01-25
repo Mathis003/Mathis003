@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mathis003&show_icons=true&theme=dark">
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mathis003&theme=dark"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mathis003&theme=dark&exclude_repo=LEPL1109&exclude_repo=LEPL1109-Hackathons"/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
