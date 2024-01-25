@@ -12,7 +12,7 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Mathis003&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mathis003&theme=dark&exclude_repo=LEPL1109,LEPL1109-Hackathons"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mathis003&theme=dark&hide=Jupyter Notebook"/>
 
 ## Activity On GitHub
 
