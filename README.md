@@ -23,7 +23,7 @@
 
 ## Some Repositories
   <p align="left">
-    <a href="https://github.com/Mathis003/LINFO1104-TwitOz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=LINFO1104-TwitOz&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false?v=1" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Mathis003/Chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=Chess&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false?v=1" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Mathis003/Connect4_AI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=Connect4_AI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false?v=1" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Mathis003/LINFO1104-TwitOz"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=LINFO1104-TwitOz&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false?v=1" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Mathis003/Chess"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=Chess&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false?v=1" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Mathis003/Connect4_AI"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mathis003&repo=Connect4_AI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false?v=1" alt="github-readme-streak-stats"></a>
   </p>
